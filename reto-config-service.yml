@@ -1,0 +1,17 @@
+{
+"name": "product-service",
+"profiles": [
+"default"
+],
+"label": null,
+"version": "a9a2ac9360d7bd0aca70fb6c0873d14e29804fd7",
+"state": null,
+"propertySources": [
+{
+"name": "https://github.com/RaulVillodresMoreno/bootCamp-ConfigServer.git/file:C:\\Users\\raul\\AppData\\Local\\Temp\\config-repo-3876762049350048243\\product-service.yaml",
+"source": {
+"product.product-name": "Si lees esto es que funciona! - Modificado por Raúl"
+}
+}
+]
+}
